@@ -39,6 +39,9 @@ public class Rettangolo {
 	}
 	
 	void show() {
+		System.out.println();
+		System.out.println();
+		System.out.println("Questo è il calcolo del tuo rettangolo:");
 		System.out.println("Base: " + base + "\n" +
 							"Altezza: " + altezza + "\n" +
 							"Perimetro: " + calcolaPerimetro() + "\n" +
